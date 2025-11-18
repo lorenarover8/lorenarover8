@@ -2,8 +2,7 @@
 
 **`Desempregada`**
 
-Me chamo Lorena Rover, tenho 15 anos e sou de Fernandópolis-SP. Curso o ensino médio na ETEC e durante ele realizo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou fazendo aulas de piano. Sou hater da tecnologia, compartilho meus conhecimentos e gosto muito do pedro henrique Lio Franco
-
+Me chamo Lorena Rover, tenho 15 anos e sou de Fernandópolis-SP. Curso o ensino médio na ETEC e durante ele realizo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou fazendo aulas de piano. Sou hater da tecnologia, compartilho meus conhecimentos e Eu amo", e a outra questiona "o quê?", a resposta é "pipoca". Em seguida, a primeira pessoa "desiste" ou o outro finge que não ouviu e responde "Aff, tchau", finalizando com "Tchau, Pipoca". 
 <p align="left">
     <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
         <img 
