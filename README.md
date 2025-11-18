@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Álvaro Miguel
+# Lorena Rover Linda
 
-**`Desenvolvedor FullStack`**
+**`Desempregada`**
 
-Me chamo Álvaro Miguel, tenho 18 anos e sou natural do Goiás. Concluí o ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou cursando Sistemas de Informação no IFSP-Votuporanga. Sou apaixonado por tecnologia, compartilho meus conhecimentos e desafios no perfil do LinkedIn [Álvaro Miguel](https://www.linkedin.com/in/álvaro-miguel-1b4606331/).
+Me chamo Lorena Rover, tenho 15 anos e sou de Fernandópolis-SP. Curso o ensino médio na ETEC e durante ele realizo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou fazendo aulas de piano. Sou hater da tecnologia, compartilho meus conhecimentos e gosto muito do pedro henrique Lio Franco
 
 <p align="left">
     <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
