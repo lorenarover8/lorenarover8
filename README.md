@@ -2,7 +2,7 @@
 
 
 
-Me chamo Lorena Rover, tenho 15 anos e sou de Fernandópolis-SP. Curso o ensino médio na ETEC e durante ele realizo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. 
+Eu me chamo Lorena Rover, tenho 16 anos e sou de Fernandópolis-SP. Curso o ensino médio na ETEC e durante ele realizo o curso técnico em Informática para Internet na ETEC Armando José Farinazzo em Fernandópolis-SP. 
 <p align="left">
     <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
         <img 
@@ -14,7 +14,7 @@ Me chamo Lorena Rover, tenho 15 anos e sou de Fernandópolis-SP. Curso o ensino 
     <a href="https://www.instagram.com/lo.rover/">
         <img 
             alt="insta" 
-            title="Me siga!!!" 
+            title="Sigam meu perfil no instagram!!" 
             src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a> 
@@ -23,7 +23,7 @@ Me chamo Lorena Rover, tenho 15 anos e sou de Fernandópolis-SP. Curso o ensino 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🍓 Linguagens e Tecnologias
 
 <img 
     align="left" 
