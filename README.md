@@ -1,6 +1,6 @@
-# Lorena Rover Linda
+# Lorena Rover 
 
-**`Desempregada`**
+
 
 Me chamo Lorena Rover, tenho 15 anos e sou de Fernandópolis-SP. Curso o ensino médio na ETEC e durante ele realizo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. 
 <p align="left">
